@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Desktop\ExosC#\SessionsCodewars\Session3Codewars\bin\Debug\Session3Codewars.exe.config
+C:\Users\LENOVO\Desktop\ExosC#\SessionsCodewars\Session3Codewars\bin\Debug\Session3Codewars.exe
+C:\Users\LENOVO\Desktop\ExosC#\SessionsCodewars\Session3Codewars\bin\Debug\Session3Codewars.pdb
+C:\Users\LENOVO\Desktop\ExosC#\SessionsCodewars\Session3Codewars\obj\Debug\Session3Codewars.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\ExosC#\SessionsCodewars\Session3Codewars\obj\Debug\Session3Codewars.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\ExosC#\SessionsCodewars\Session3Codewars\obj\Debug\Session3Codewars.exe
+C:\Users\LENOVO\Desktop\ExosC#\SessionsCodewars\Session3Codewars\obj\Debug\Session3Codewars.pdb

@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\Session1Codewars\Session1Codewars\bin\Debug\Session1Codewars.exe.config
+C:\Users\LENOVO\source\repos\Session1Codewars\Session1Codewars\bin\Debug\Session1Codewars.exe
+C:\Users\LENOVO\source\repos\Session1Codewars\Session1Codewars\bin\Debug\Session1Codewars.pdb
+C:\Users\LENOVO\source\repos\Session1Codewars\Session1Codewars\obj\Debug\Session1Codewars.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Session1Codewars\Session1Codewars\obj\Debug\Session1Codewars.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Session1Codewars\Session1Codewars\obj\Debug\Session1Codewars.exe
+C:\Users\LENOVO\source\repos\Session1Codewars\Session1Codewars\obj\Debug\Session1Codewars.pdb

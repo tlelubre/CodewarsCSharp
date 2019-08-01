@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\Session1Codewars\Session2Codewars\obj\Debug\Session2Codewars.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Session1Codewars\Session2Codewars\obj\Debug\Session2Codewars.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Session1Codewars\Session2Codewars\bin\Debug\Session2Codewars.exe.config
+C:\Users\LENOVO\source\repos\Session1Codewars\Session2Codewars\bin\Debug\Session2Codewars.exe
+C:\Users\LENOVO\source\repos\Session1Codewars\Session2Codewars\bin\Debug\Session2Codewars.pdb
+C:\Users\LENOVO\source\repos\Session1Codewars\Session2Codewars\obj\Debug\Session2Codewars.exe
+C:\Users\LENOVO\source\repos\Session1Codewars\Session2Codewars\obj\Debug\Session2Codewars.pdb
+C:\Users\LENOVO\Desktop\ExosC#\SessionsCodewars\Session2Codewars\bin\Debug\Session2Codewars.exe.config
+C:\Users\LENOVO\Desktop\ExosC#\SessionsCodewars\Session2Codewars\bin\Debug\Session2Codewars.exe
+C:\Users\LENOVO\Desktop\ExosC#\SessionsCodewars\Session2Codewars\bin\Debug\Session2Codewars.pdb
+C:\Users\LENOVO\Desktop\ExosC#\SessionsCodewars\Session2Codewars\obj\Debug\Session2Codewars.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\ExosC#\SessionsCodewars\Session2Codewars\obj\Debug\Session2Codewars.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\ExosC#\SessionsCodewars\Session2Codewars\obj\Debug\Session2Codewars.exe
+C:\Users\LENOVO\Desktop\ExosC#\SessionsCodewars\Session2Codewars\obj\Debug\Session2Codewars.pdb
